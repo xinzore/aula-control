@@ -1,0 +1,16 @@
+AULA Control
+Copyright (C) 2026 AULA Control contributors.
+
+The Evision HID protocol codec and transport design are derived from Aulaar:
+https://github.com/shDavlatbek/aulaar
+Copyright (C) 2026 Davlatbek
+Licensed under GPL-2.0-or-later.
+
+The web adaptation is distributed under the same GPL-2.0-or-later license.
+See LICENSE for the complete license text.
+
+AULA is a trademark of its respective owner. This independent community project
+is not affiliated with, endorsed by, or supported by AULA.
+
+Third-party dependencies retain their own licenses. The UI illustrations are
+original SVG artwork; icons are from Lucide (ISC); Manrope is licensed under OFL.
