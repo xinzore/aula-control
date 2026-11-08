@@ -1,5 +1,7 @@
 # AULA Control
 
+**[Open the web panel → aula-control.vercel.app](https://aula-control.vercel.app)**
+
 A clean, open-source WebHID control panel for AULA gaming mice. Adjust DPI, polling rate,
 sensor behavior, sleep, debounce and lighting directly in your browser.
 
